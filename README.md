@@ -7,7 +7,6 @@ Welcome to the Cat vs Dog Image Classification project! This repository contains
 - [Project Overview](#project-overview)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Project Overview
@@ -48,34 +47,6 @@ To run this project, you'll need the following dependencies:
 
     ```bash
     pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. Download the dataset from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data) and extract it into a directory named `data`.
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd cat-vs-dog-classification
-    ```
-
-3. Run the training script:
-
-    ```bash
-    python train.py
-    ```
-
-4. To evaluate the model, run:
-
-    ```bash
-    python evaluate.py
-    ```
-
-5. To classify a new image, run:
-
-    ```bash
-    python classify.py --image-path path_to_your_image
     ```
 
 ## Contributing
