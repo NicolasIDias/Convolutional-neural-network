@@ -25,7 +25,6 @@ To run this project, you'll need the following dependencies:
 - Python 3.7+
 - TensorFlow
 - Keras
-- OpenCV
 - NumPy
 - Matplotlib
 
